@@ -1,0 +1,1 @@
+web: gunicorn sasappdev.wsgi --log-file -
